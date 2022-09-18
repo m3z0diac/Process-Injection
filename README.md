@@ -1,2 +1,2 @@
 # Process-Injection
-local and remote processes injection
+process injection techniques
