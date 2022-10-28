@@ -1,2 +1,2 @@
 # Process-Injection
-Some Of Process Injection Techniques
+Process Injection Techniques
